@@ -1,0 +1,24 @@
+[UPGRADE_FILE]
+Name = DragonCenterUpdate1.2.1610.2701.zip
+Version = 1.2.1610.2701
+Level = High
+Model = 
+
+[MESSAGE]
+Content =  
+Version = 0000
+Repeat = 1
+Model = 
+
+[Hotfix]
+Download = Nahimic_Hotfix07.zip
+Filename = hotfix.exe
+Version = 0007
+Model = 
+
+[HTTP]
+Address = 
+Version = 0000
+Model = 
+
+
